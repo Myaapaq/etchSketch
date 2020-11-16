@@ -9,7 +9,7 @@ body{
     flex-wrap: wrap;
 }
 #etchDiv{
-    background-color:rgb(199, 189, 189) ;
+    background-color: grey ;
     border: 45px solid rgba(255, 255, 255, 0.865);
     border-radius: 20px;
     width: 860px;
@@ -38,6 +38,10 @@ body{
 #size{
     margin-left: 141px;
 }
+#welcome{
+    widows: 20px;
+    height: 20px;
+}
 .btns{
     margin: 5px;
     padding: 5px;
@@ -45,13 +49,10 @@ body{
 .blocks{
     width: 54.375px;
     height: 54.375px;
-    background-color:  rgb(236, 234, 234);
+    background-color:  rgb(209, 203, 203);
     text-align: left;
     font-family: Arial;
-    color: white ;
 }
-.testDiv{
-    background-color: blueviolet;
-}
+
 
 
